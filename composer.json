@@ -21,7 +21,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Darryldecode\\": "src/Darryldecode"
+            "Darryldecode\\": "src/Darryldecode/Cart"
         }
     },
     "minimum-stability": "dev"
